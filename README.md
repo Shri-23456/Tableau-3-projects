@@ -13,6 +13,10 @@ https://public.tableau.com/app/profile/shriya.v./vizzes
 ![image](https://github.com/Shri-23456/Tableau-3-projects/assets/155814998/a464a31d-75cb-4e71-9d89-fe80d3d7d3b2)
 
 **2.SUPERMARKET SALES ANALYTICS**
+![image](https://github.com/Shri-23456/Tableau-3-projects/assets/155814998/7e1219e6-fa18-4e9b-b33a-c37bacdf9687)
+
+**3.SWIGGY ANALYSIS**
+
 
 What I learnt from Tableau Projects -
 - To Create 3 interactive dashboards and Publish it online to share.
