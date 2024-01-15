@@ -16,7 +16,9 @@ What I learnt from Tableau Projects -
 -Understood how to use dashboard actions and create interactive dashboards.
 
 1.SAMPLE SALES DASHBOARD
+
 Dashboard 1 (1).png
+https://github.com/Shri-23456/Tableau-3-projects/blob/506ba2bff552a2af6ee0447346ce9b9eeb60851c/Dashboard%201%20(1).png
 
 View all my Tableau projects Dashboards on my Tableau profile link
 https://public.tableau.com/app/profile/shriya.v./vizzes
