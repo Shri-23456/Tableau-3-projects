@@ -16,6 +16,7 @@ https://public.tableau.com/app/profile/shriya.v./vizzes
 ![image](https://github.com/Shri-23456/Tableau-3-projects/assets/155814998/7e1219e6-fa18-4e9b-b33a-c37bacdf9687)
 
 **3.SWIGGY ANALYSIS**
+![image](https://github.com/Shri-23456/Tableau-3-projects/assets/155814998/7bee7864-2342-43db-ae32-868cecc00b58)
 
 
 What I learnt from Tableau Projects -
