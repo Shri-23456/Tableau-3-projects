@@ -15,5 +15,8 @@ What I learnt from Tableau Projects -
 - Understood how to make use of the analytics pane including Monthly with trend lines in terms of Sales and Profit.
 -Understood how to use dashboard actions and create interactive dashboards.
 
+1.SAMPLE SALES DASHBOARD
+Dashboard 1 (1).png
+
 View all my Tableau projects Dashboards on my Tableau profile link
 https://public.tableau.com/app/profile/shriya.v./vizzes
