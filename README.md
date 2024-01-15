@@ -26,7 +26,9 @@ What I learnt from Tableau Projects -
 - To Create Parameters.
 - Calculations involve aggregations like Counts, Sum , Maximum, Minimum, Averages, Percentage Calculations, Rankings based on location, price, & Rating as per data sources.
 - Understood how to make use of the analytics pane including Monthly with trend lines in terms of Sales and Profit.
--Understood how to use dashboard actions and create interactive dashboards.
+- Understood how to use dashboard actions and create interactive dashboards.
+- Include KPI scorecard in terms of total number of invoices, total quantity sold, Average unit price ; Trend identification, and Data Analysis.
+
 
 
 
