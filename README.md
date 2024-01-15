@@ -10,7 +10,9 @@ View all my Tableau projects Dashboards on my Tableau profile link
 https://public.tableau.com/app/profile/shriya.v./vizzes
 
 **1.SAMPLE SALES DASHBOARD**
+![image](https://github.com/Shri-23456/Tableau-3-projects/assets/155814998/a464a31d-75cb-4e71-9d89-fe80d3d7d3b2)
 
+**2.SUPERMARKET SALES ANALYTICS**
 
 What I learnt from Tableau Projects -
 - To Create 3 interactive dashboards and Publish it online to share.
